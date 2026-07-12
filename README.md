@@ -8,3 +8,6 @@ You can run it in cmd, if you want, you can open it in visual studio and replace
 obviously, you will need Python installed on your PC to run it via the command prompt (cmd). save the file in a folder, type "cmd" in the address bar, and then run it using the command `python script_name.py`.
 
 <img width="946" height="133" alt="image" src="https://github.com/user-attachments/assets/185fd736-0211-4ffd-b4f3-435a678a631a" />
+
+
+If you want to modify or improve it, or even write it in another programming language, you are welcome to do so.
