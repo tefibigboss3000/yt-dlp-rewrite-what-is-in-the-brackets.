@@ -48,3 +48,4 @@ def limpiar_nombres_mp3(ruta):
 
 
 limpiar_nombres_mp3(RUTA_CARPETA)
+input("Press ENTER to exit")
